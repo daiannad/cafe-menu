@@ -1,6 +1,6 @@
 # ☕ Camper Cafe Menu
 
-This is a simple HTML and CSS project that displays a styled menu for a fictional cafe called **Camper Cafe**. It's part of the [freeCodeCamp Responsive Web Design curriculum](https://www.freecodecamp.org/learn/). The project includes sections for coffee and desserts, with item names and prices.
+This is a simple HTML and CSS project that displays a styled menu for a fictional cafe called **Camper Cafe**. It's part of the [freeCodeCamp Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/). The project includes sections for coffee and desserts, with item names and prices.
 
 ## 📄 Features
 
